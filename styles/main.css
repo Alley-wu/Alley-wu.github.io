@@ -35,42 +35,42 @@ body{
  
 /* 侧边栏个人信息卡片动态渐变色 */
 #aside-content>.card-widget.card-info{
-    background: linear-gradient(-45deg, rgba(225, 255, 247, 0.6), 
-rgba(225, 250, 255, 0.9), 
-rgba(225, 243, 255, 0.9), 
-rgba(227, 225, 255, 0.6));
+    background: linear-gradient(-45deg, rgba(233, 238, 252, 0.6), 
+rgba(235, 244, 252, 0.9), 
+rgba(235, 247, 251, 0.9), 
+rgba(244, 254, 252, 0.6));
 }
 [data-theme=dark] #aside-content>.card-widget.card-info {
-    background: linear-gradient(-45deg, rgba(225, 255, 247, 0.6), 
-    rgba(225, 250, 255, 0.9), 
-    rgba(225, 243, 255, 0.9), 
-    rgba(227, 225, 255, 0.6));
+    background: linear-gradient(-45deg, rgba(233, 238, 252, 0.6), 
+    rgba(235, 244, 252, 0.9), 
+    rgba(235, 247, 251, 0.9), 
+    rgba(244, 254, 252, 0.6));
 }
 /* 侧边栏公告栏卡片渐变色 */
 #aside-content>.card-widget.card-announcement{
-    background: linear-gradient(-45deg,  rgba(225, 255, 247, 0.6), 
-    rgba(225, 250, 255, 0.9), 
-    rgba(225, 243, 255, 0.9), 
-    rgba(227, 225, 255, 0.6));
+    background: linear-gradient(-45deg, rgba(233, 238, 252, 0.6), 
+    rgba(235, 244, 252, 0.9), 
+    rgba(235, 247, 251, 0.9), 
+    rgba(244, 254, 252, 0.6));
 }
 [data-theme=dark] #aside-content>.card-widget.card-announcement{
-    background: linear-gradient(-45deg,  rgba(225, 255, 247, 0.6), 
-    rgba(225, 250, 255, 0.9), 
-    rgba(225, 243, 255, 0.9), 
-    rgba(227, 225, 255, 0.6));
+    background: linear-gradient(-45deg, rgba(233, 238, 252, 0.6), 
+    rgba(235, 244, 252, 0.9), 
+    rgba(235, 247, 251, 0.9), 
+    rgba(244, 254, 252, 0.6));
 }
 /* 侧边栏目录最新文章卡片渐变色 */
 #aside-content>.sticky_layout>.card-widget{
-    background: linear-gradient(-45deg,  rgba(225, 255, 247, 0.6), 
-    rgba(225, 250, 255, 0.9), 
-    rgba(225, 243, 255, 0.9), 
-    rgba(227, 225, 255, 0.6));
+    background: linear-gradient(-45deg, rgba(233, 238, 252, 0.6), 
+    rgba(235, 244, 252, 0.9), 
+    rgba(235, 247, 251, 0.9), 
+    rgba(244, 254, 252, 0.6));
 }
 [data-theme=dark] #aside-content>.sticky_layout>.card-widget{
-    background: linear-gradient(-45deg,  rgba(225, 255, 247, 0.6), 
-    rgba(225, 250, 255, 0.9), 
-    rgba(225, 243, 255, 0.9), 
-    rgba(227, 225, 255, 0.6));
+    background: linear-gradient(-45deg, rgba(233, 238, 252, 0.6), 
+    rgba(235, 244, 252, 0.9), 
+    rgba(235, 247, 251, 0.9), 
+    rgba(244, 254, 252, 0.6));
 }
 /* 个人信息Follow me按钮 */
 #aside-content>.card-widget.card-info>#card-info-btn {
